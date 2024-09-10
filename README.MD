@@ -1,5 +1,5 @@
 # Sudoku solver
-3x3 Sudoku solver with customizable rule and board shape.
+3x3 Sudoku solver
 ## Standard code
 ### Compiling
 To compile it to `build` directory, using `ninja` as build tool:
